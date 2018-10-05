@@ -11,7 +11,6 @@ export function movieslist(){
     }
 }
 
-
 export function directorslist(){
     return {
         type:'DIR_LIST',
